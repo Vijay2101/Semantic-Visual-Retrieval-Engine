@@ -1,0 +1,12 @@
+torch
+
+transformers
+numpy
+pandas
+pillow
+matplotlib
+
+streamlit
+
+python-dotenv
+faiss-cpu
