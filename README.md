@@ -113,7 +113,7 @@ Application Demo
 
 Semantic image search using FAISS-based nearest neighbor search over fine-tuned CLIP embeddings.
 
-!\[App Screenshot\]([https://github.com/Vijay2101/SmartRoute-Optimized-Delivery-Routing-and-Time-Prediction/blob/main/images/Screenshot from 2025-01-28 11-25-18.png](https://github.com/Vijay2101/Semantic-Visual-Retrieval-Engine/blob/main/assets/text_to_image.png)?raw=true)
+![App Screenshot](https://github.com/Vijay2101/Semantic-Visual-Retrieval-Engine/blob/main/assets/text_to_image.png?raw=true)
 
 Images are ranked using cosine similarity between normalized text and image embeddings.
 
@@ -123,11 +123,12 @@ The selected image is spatially divided into regions.Each region is encoded inde
 
 #### Input Interface
 
-!\[App Screenshot\]([https://github.com/Vijay2101/Semantic-Visual-Retrieval-Engine/blob/main/assets/visual\_rag\_input.png](https://github.com/Vijay2101/Semantic-Visual-Retrieval-Engine/blob/main/assets/text_to_image.png)?raw=true)
+![App Screenshot](https://github.com/Vijay2101/Semantic-Visual-Retrieval-Engine/blob/main/assets/visual_rag_input.png?raw=true)
 
 #### Region-Level Evidence Output
 
-!\[App Screenshot\]([https://github.com/Vijay2101/Semantic-Visual-Retrieval-Engine/blob/main/assets/visual\_rag\_output.png](https://github.com/Vijay2101/Semantic-Visual-Retrieval-Engine/blob/main/assets/text_to_image.png)?raw=true)
+![App Screenshot](https://github.com/Vijay2101/Semantic-Visual-Retrieval-Engine/blob/main/assets/visual_rag_output.png?raw=true)
+
 
 The system:
 
